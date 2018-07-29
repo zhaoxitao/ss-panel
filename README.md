@@ -30,7 +30,7 @@ Please visit [releases pages](https://github.com/orvice/ss-panel/releases) to do
 ### Step 0
 
 ```
-git clone https://github.com/orvice/ss-panel.git
+git clone https://github.com/zhaoxitao/ssr-panel.git
 ```
 
 ### Step 1
@@ -60,7 +60,7 @@ Import the sql to you mysql database.
 
 Nginx Config example:
 
-if you download ss-panel on path /home/www/ss-panel
+if you download ss-panel on path /data/www/ss-panel
 
 
 ```
